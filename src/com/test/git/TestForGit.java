@@ -6,9 +6,13 @@ public class TestForGit {
 		System.out.println("Hello Git ");
 		System.out.println("add a line ");
 		
+
 		int i = 0;
 		
 		System.out.print(i);
+
+		int j = 1;
+		System.out.println(j);
 		
 	}
 
